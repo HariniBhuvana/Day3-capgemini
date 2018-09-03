@@ -16,9 +16,9 @@ class EmployeeInformationTest {
  @Test
 	void testNetSalary() {
 		assertEquals(51300.0, empinfo.netSalary());
-		//assertEquals(38000.0, empinfo.netSalary();
-		//assertEquals(33432.66, empinfo.netSalary();
-		//assertEquals(33432.66, empinfo.netSalary();
+		//assertEquals(38000.0, empinfo.netSalary());
+		//assertEquals(33432.66, empinfo.netSalary());
+		//assertEquals(33432.66, empinfo.netSalary());
 	}
  @AfterEach
 	void tearDown() {
